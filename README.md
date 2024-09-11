@@ -1,4 +1,4 @@
-This is a full-stack MERN sociak media app aiming to share updates about the users' pets, follow theri friends' pets, and provide useful information to anyone coming in touch with a particular animal.
+This is a full-stack MERN social media app aiming to share updates about the users' pets, follow their friends' pets, and provide useful information to anyone caring fpr a particular animal.
 
 Project inspiration:
 https://www.youtube.com/watch?v=K8YELRmUb5o
